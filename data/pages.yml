@@ -1,37 +1,49 @@
-- title: Page 1
-  url: page-1
+- title: Research
+  url: research
   sub_pages:
-    - title: Overview
+    - title: Research Overview
       url: overview
-- title: Page 2
-  url: page-2
+    - title: Publications
+      url: publications
+    - title: Presentations
+      url: presentations
+    - title: Supplementary Materials
+      url: supplementary-materials
+- title: People
+  url: people
   sub_pages:
-    - title: Sub page 4 has a really long multi-line title
-      url: sub-page-4
-- title: Page 3
-  url: page-3
+    - title: Director
+      url: director
+    - title: Post-Doctoral Fellows
+      url: post-doc-students
+    - title: PhD Students
+      url: phd-students
+    - title: Master's Students
+      url: masters-students
+    - title: Research Interns
+      url: research-interns
+- title: Collaboration
+  url: collaboration
   sub_pages:
-    - title: Sub page 7
-      url: sub-page-7
-    - title: Sub page 8
-      url: sub-page-8
-    - title: Sub page 9
-      url: sub-page-9
-- title: Page 4
-  url: page-4
+    - title: Institutions
+      url: institutions
+    - title: Industrial Partners
+      url: industrial-partners
+    - title: Funding
+      url: funding
+    - title: Honors and Awards
+      url: honors-and-awards
+    - title: Community Outreach
+      url: community-outreach
+- title: Facilities
+  url: facilities
   sub_pages:
-    - title: Sub page 10
-      url: sub-page-10
-    - title: Sub page 11
-      url: sub-page-11
-    - title: Sub page 12
-      url: sub-page-12
+    - title: Facilities Overview
+      url: overview
+    - title: 3D Printing
+      url: 3d-printing
 - title: About
   url: about
   sub_pages:
-    - title: Sub page 13
-      url: sub-page-13
-    - title: Sub page 14
-      url: sub-page-14
-    - title: Sub page 15
-      url: sub-page-15
+    - title: Contact Us
+      url: contact
