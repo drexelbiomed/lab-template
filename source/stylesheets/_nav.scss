@@ -29,11 +29,11 @@ nav.top-bar {
         background: $drexel-blue image-url("sprite.png") right -93px no-repeat;
       }
 
-      @media #{$small-up} { 
+      @media #{$small-up} {
         display: none;
       }
 
-      @media #{$small-only} { 
+      @media #{$small-only} {
         display: block;
       }
     }
@@ -141,7 +141,7 @@ nav.nav-sidebar {
 
         &.active, &:hover {
           background-color: $drexel-yellow;
-        }   
+        }
       }
     }
   }
