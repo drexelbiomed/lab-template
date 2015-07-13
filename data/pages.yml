@@ -47,3 +47,5 @@
   sub_pages:
     - title: Contact Us
       url: contact
+    - title: Opportunities
+      url: opportunities
