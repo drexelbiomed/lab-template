@@ -172,3 +172,16 @@ h1, h2, h3, h4, h5, h6 {
     }
   }
 }
+
+// Profile image on Mobile
+@media #{$medium-only} {
+  .clearfix {
+    img.right {
+      float: none !important;
+    }
+
+    img.left {
+      float: none !important;
+    }
+  }
+}

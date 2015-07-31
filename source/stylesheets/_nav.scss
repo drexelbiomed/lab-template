@@ -72,6 +72,7 @@ nav.top-bar {
             &.active { color: $drexel-yellow; }
           }
         }
+        li.parent-link { display: none !important; }
         li:last-child {
           a {
             padding-bottom: 20px !important;
