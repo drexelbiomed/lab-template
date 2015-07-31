@@ -1,14 +1,16 @@
 - title: Research
   url: research
   sub_pages:
-    - title: Research Overview
+    - title: Overview
       url: overview
+    - title: Total Artificial Heart
+      url: total-artificial-heart
+    - title: Circulatory Augmentation
+      url: circulatory-augmentation
     - title: Publications
       url: publications
-    - title: Presentations
-      url: presentations
-    - title: Supplementary Materials
-      url: supplementary-materials
+    - title: Facilities
+      url: facilities
 - title: People
   url: people
   sub_pages:
@@ -25,23 +27,19 @@
 - title: Collaboration
   url: collaboration
   sub_pages:
-    - title: Institutions
-      url: institutions
+    - title: Institutional Partners
+      url: institutional-partners
     - title: Industrial Partners
       url: industrial-partners
     - title: Funding
       url: funding
-    - title: Honors and Awards
-      url: honors-and-awards
     - title: Community Outreach
       url: community-outreach
-- title: Facilities
-  url: facilities
+- title: News
+  url: news
   sub_pages:
-    - title: Facilities Overview
-      url: overview
-    - title: 3D Printing
-      url: 3d-printing
+    - title: Honors and Awards
+      url: honors-and-awards
 - title: About
   url: about
   sub_pages:
