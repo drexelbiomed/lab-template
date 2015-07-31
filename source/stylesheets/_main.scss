@@ -185,3 +185,23 @@ h1, h2, h3, h4, h5, h6 {
     }
   }
 }
+
+.more-button {
+  display:inline-block;
+  zoom:1; *display: inline;
+  height: 22px; /* IE fix for inline-block */
+  height:22px;
+  color: #07294D;
+  font: bold 1em/1 FuturaBold,arial,sans-serif;
+  text-transform:uppercase;
+  background: image-url("sprite.png") no-repeat scroll 0 -422px;
+  margin:0;
+  padding:0px 0 0 27px;
+}
+
+.bx-wrapper {
+  .more-button {
+    color: #FFFFFF;
+    font-weight: 100;
+  }
+}
