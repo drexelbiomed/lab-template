@@ -1,14 +1,18 @@
 - title: Research
   url: research
   sub_pages:
-    - title: Research Overview
+    - title: Overview
       url: overview
+    - title: Total Artificial Heart
+      url: total-artificial-heart
+    - title: Circulatory Augmentation
+      url: circulatory-augmentation
+    - title: Collapsible Impeller
+      url: collapsible-impeller
     - title: Publications
       url: publications
-    - title: Presentations
-      url: presentations
-    - title: Supplementary Materials
-      url: supplementary-materials
+    - title: Facilities
+      url: facilities
 - title: People
   url: people
   sub_pages:
@@ -16,32 +20,28 @@
       url: director
     - title: Post-Doctoral Fellows
       url: post-doc-students
-    - title: PhD Students
-      url: phd-students
-    - title: Master's Students
-      url: masters-students
+    - title: Graduate Students
+      url: graduate-students
     - title: Research Interns
       url: research-interns
+    - title: Alumni
+      url: alumni
 - title: Collaboration
   url: collaboration
   sub_pages:
-    - title: Institutions
-      url: institutions
+    - title: Institutional Partners
+      url: institutional-partners
     - title: Industrial Partners
       url: industrial-partners
     - title: Funding
       url: funding
-    - title: Honors and Awards
-      url: honors-and-awards
     - title: Community Outreach
       url: community-outreach
-- title: Facilities
-  url: facilities
+- title: News
+  url: news
   sub_pages:
-    - title: Facilities Overview
-      url: overview
-    - title: 3D Printing
-      url: 3d-printing
+    - title: Honors and Awards
+      url: honors-and-awards
 - title: About
   url: about
   sub_pages:
