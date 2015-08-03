@@ -1,5 +1,8 @@
-.home-panel
-  %h3 About
-  %ul.unstyled
-    %li The primary focus of research in our lab is to understand how the brain encodes sensory information and integrates this to produce intelligent motor output. We want to be able to use this knowledge to investigate changes in network activity under conditions of neural injury or dysfunction.
-  = link_to "About", "about", class: "more-link"
+/ .home-panel
+%h3 Recent News
+- data.honors[0..2].each_with_index do |item, i|
+  %p= item[0..120] + "..."
+  - if i < 2
+    %hr
+%p
+  = link_to "Read More", "news/honors-and-awards", class: "more-button-blue"

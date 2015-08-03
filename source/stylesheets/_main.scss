@@ -174,16 +174,23 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 // Profile image on Mobile
+@media #{$small-only} {
+  .home-img { display: none; }
+}
+
 @media #{$medium-only} {
   .clearfix {
     img.right {
       float: none !important;
+      padding: 0px;
     }
 
     img.left {
       float: none !important;
+      padding: 0px;
     }
   }
+  .home-img { display: none; }
 }
 
 .more-button {
@@ -197,6 +204,12 @@ h1, h2, h3, h4, h5, h6 {
   background: image-url("sprite.png") no-repeat scroll 0 -422px;
   margin:0;
   padding:0px 0 0 27px;
+}
+
+.more-button-blue {
+  @extend .more-button;
+  color: #07294D;
+  padding: 4px 0 0 27px;
 }
 
 .bx-wrapper {
