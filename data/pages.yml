@@ -13,6 +13,10 @@
       url: collapsible-impeller
     - title: Patient Specific Modeling and Surgical Planning
       url: patient-specific-modeling
+    - title: Ventricular Assist Devices
+      url: ventricular-assist-devices
+    - title: Lymphatic Pump
+      url: lymphatic-pump
     - title: Facilities
       url: facilities
 - title: People
