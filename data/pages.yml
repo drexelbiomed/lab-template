@@ -3,6 +3,8 @@
   sub_pages:
     - title: Overview
       url: overview
+    - title: Mechanical Cavopulmonary Assistance
+      url: mechanical-cavopulmonary-assistance
     - title: Total Artificial Heart
       url: total-artificial-heart
     - title: Circulatory Augmentation
