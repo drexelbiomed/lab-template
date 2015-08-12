@@ -48,6 +48,8 @@
   sub_pages:
     - title: Honors and Awards
       url: honors-and-awards
+    - title: Publications
+      url: publications
 - title: About
   url: about
   sub_pages:
