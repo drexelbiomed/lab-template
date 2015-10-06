@@ -1,0 +1,14 @@
+---
+title: Patient Specific Modeling and Surgical Planning
+---
+
+%h2= current_page.data.title
+= image_tag "crop_patientspecificmodeling.png"
+%p.caption
+	%strong Generation of the Patient-specific TCPC Model.
+	%br
+	A. 2D patient MRI converted to 3D point cloud in MIMICS, B. Smooth point cloud mesh imported into SolidWorks; C. Surface knit to solid body; D. Vascular extensions to the solid body TCPC.
+%p
+	During device development, it is important to consider how the new device will connect and impact the cardiovascular system. In support of this objective and to ensure translational success of the devices, we perform a retrospective study of patient medical data following institutional review board approval. We harvest magnetic resonance images (MRI) of cardiovascular physiology. Using these imaging data sets, the patient-specific anatomical models were created by transforming the 2-D magnetic resonance images into a 3-D computer aided design model or solid body (Figure below). We employ the software MIMICS (Materialise, Leuven, Belgium) to generate a 3-D point cloud mesh from the patient’s MRI data set and to produce the solid body model in the computer-aided-design software. We then utilize these patient specific physiologies to investigate therapeutic intervention, such as placement and functionality of our devices and surgical planning.
+.flex-video
+	%iframe{width: "500", height: "370", src: "//player.vimeo.com/video/136135860", frameborder: "0" }

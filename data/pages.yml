@@ -3,14 +3,20 @@
   sub_pages:
     - title: Overview
       url: overview
-    - title: Total Artificial Heart
-      url: total-artificial-heart
-    - title: Circulatory Augmentation
-      url: circulatory-augmentation
+    - title: Mechanical Cavopulmonary Assistance
+      url: mechanical-cavopulmonary-assistance
+    - title: Dragon Heart
+      url: dragon-heart
+    - title: External Compression Therapy
+      url: external-compression-therapy
     - title: Collapsible Impeller
       url: collapsible-impeller
-    - title: Publications
-      url: publications
+    - title: Patient Specific Modeling and Surgical Planning
+      url: patient-specific-modeling
+    - title: Ventricular Assist Devices
+      url: ventricular-assist-devices
+    - title: Lymphatic Pump
+      url: lymphatic-pump
     - title: Facilities
       url: facilities
 - title: People
@@ -33,8 +39,6 @@
       url: institutional-partners
     - title: Industrial Partners
       url: industrial-partners
-    - title: Funding
-      url: funding
     - title: Community Outreach
       url: community-outreach
 - title: News
@@ -42,6 +46,8 @@
   sub_pages:
     - title: Honors and Awards
       url: honors-and-awards
+    - title: Publications
+      url: publications
 - title: About
   url: about
   sub_pages:
