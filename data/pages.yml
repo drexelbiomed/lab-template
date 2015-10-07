@@ -51,7 +51,9 @@
 - title: About
   url: about
   sub_pages:
-    - title: Contact Us
-      url: contact
     - title: Opportunities
       url: opportunities
+    - title: Contribute
+      url: contribute
+    - title: Contact Us
+      url: contact
