@@ -22,8 +22,12 @@
 Gemfile.lock
 
 source/bower_components/
+
 data/ftp.yml
+
 *.psd
 *.pdf
 *.xml
 *.sal
+source/images/people.psd
+source/images/slides.psd
